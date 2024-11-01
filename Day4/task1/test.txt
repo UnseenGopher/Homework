@@ -1,0 +1,11 @@
+123456
+test city
+test street
+test house
+test apartment
+8800555353
+test name
+test surname 
+test patronymic
+test product name
+40
